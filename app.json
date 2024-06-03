@@ -3,6 +3,7 @@
     "name": "prg7-app",
     "slug": "prg7-app",
     "version": "1.0.0",
+    "platforms": ["ios", "android"],  
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
